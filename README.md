@@ -4,7 +4,7 @@ Tek ihtiyacınız olan şeyler kendi apikeyleriniz oluşturmanız unutmayın bir
 
 
 ------
-$ pip install python-telegram-bot --upgrade
+
 
 $ git clone https://github.com/Muhammet15/Python-Telegram-Bot.git
 
