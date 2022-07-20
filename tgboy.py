@@ -148,7 +148,7 @@ dgkferidun = datetime.datetime(1992,12,23)
 #yasmami = bugun.year-dgkmami.year
 bot = telebot.TeleBot("5159408560:YOURAPIKEY-B_E")
 #https://api.telegram.org/bot<your-bot-token>/getme
-#https://api.telegram.org/bot5057886601:AAHo74NywuqV58s52ZL7HJoBfmV8QxMTvHQ/getUpdates
+#https://api.telegram.org/bot5057886601:FOR YOUR NEWS API KEY/getUpdates
 ogrenilensorular=['kemal','chp','turk news','sorular','dating','app','who are you','how are you','gif','gifcat','oyunlar','gifnervous','gifsleepy','haberler','','sıkıldım','nasılsın','kimsin','start','selam','help','merhaba','parabirimleri','para birimleri','currencies','durum','merhaba','ne işe yararsın','GIF','gifsıkılmak','giftired','gifyorulmak','gifbored','giflaughft','gifgülmek','wedding','pngcat']
 # bot.forward_message('Hoşgeldin',1522868005,MessageID)
 sobet = ['selam','kimsin','nasılsın','ne işe yararsın']
